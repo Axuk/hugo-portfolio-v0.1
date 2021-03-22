@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  An enthusiastic student with a commitment to self-development. I enjoy studying a subject that is not
+  only diverse but also constantly evolving.
+content: >
+  ### I’m Isaac, a Software Development Student working to achieve my BTEC qualification.
+
+  Over the past few years, I have expanded proficiency in various
+  technological areas, displaying aptitude in the use of operating systems, programming languages and
+  multiple web technologies.  
+  
+    As I complete my studies, I am now exploring ways to progress my passion.  
+
+  My days are normally spent researching, designing, listening to music, and programming. I also like to spend my time adventuring to new places!
+button1Name: Get in Touch
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.png
